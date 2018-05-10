@@ -1,0 +1,66 @@
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\ApplicationInsights.config
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\csc.exe
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\vbc.exe
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\SportsPro.dll.config
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\SportsPro.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\SportsPro.pdb
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.Web.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.Web.xml
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\obj\Debug\SportsPro.csprojResolveAssemblyReference.cache
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\obj\Debug\SportsPro.dll
+C:\Users\Julie Ann Moore\OneDrive\Project 1\SportsPro\SportsPro\obj\Debug\SportsPro.pdb
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\ApplicationInsights.config
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\csc.exe
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\vbc.exe
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\VBCSCompiler.exe
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\SportsPro.dll.config
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\SportsPro.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\SportsPro.pdb
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.Web.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.ApplicationInsights.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.Web.xml
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.ApplicationInsights.xml
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\obj\Debug\SportsPro.csprojResolveAssemblyReference.cache
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\obj\Debug\SportsPro.dll
+C:\Users\msjul\OneDrive\Project 1\SportsPro\SportsPro\obj\Debug\SportsPro.pdb
